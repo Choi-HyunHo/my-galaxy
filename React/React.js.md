@@ -4,7 +4,7 @@ date: "2022-11-16"
 description: 리액트를 해봅시다 👍
 tag: React
 ---
-
+[[React.js]]
 ## **React 란 ❓**
 
 리액트는 싱글 페이지 애플리케이션 UI(User Interface) 를 생성하는데 포커스를 맞춘 라이브러리 입니다.

@@ -4,7 +4,7 @@ date: "2023-02-03"
 description: hooks 첫 번째❗️ useState 에 대해서
 tag: React
 ---
-
+[[React.js]]
 useState 와 useEffect 발표 중 먼저 리액트의 대표적인 hook 중 하나인 useState 에 대해 알아보겠습니다! 😀
 
 ## **먼저 State 란❓**
