@@ -1,9 +1,8 @@
 ---
 title: 리액트(React.js)
-date: 2022-11-16
+date: "2022-11-16"
 description: 리액트를 해봅시다 👍
-tags:
-  - React
+tag: React
 ---
 
 ## **React 란 ❓**
