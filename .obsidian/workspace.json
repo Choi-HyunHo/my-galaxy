@@ -11,8 +11,12 @@
             "id": "b08b9effc9971491",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/React-category.md.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/React-category.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/React-category.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/React-category.md.md"
+              }
             }
           }
         ]
@@ -140,9 +148,9 @@
   },
   "active": "b08b9effc9971491",
   "lastOpenFiles": [
-    "React/React-category.md",
-    "React/React.js.md",
     "README.md",
+    "React/React-category.md.md",
+    "React/React.js.md",
     "무제 파일.canvas",
     "React/useState.md",
     "무제 파일.md",
