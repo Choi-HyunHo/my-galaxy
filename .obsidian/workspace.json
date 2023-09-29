@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "659fdaf435568c9d",
+            "id": "ccd953f7ca3f510f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 파일.md"
+              }
             }
           }
         ]
@@ -138,6 +144,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "659fdaf435568c9d",
-  "lastOpenFiles": []
+  "active": "356af63d535c3528",
+  "lastOpenFiles": [
+    "무제 폴더",
+    "README.md",
+    "무제 파일.md"
+  ]
 }
