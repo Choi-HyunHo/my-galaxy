@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React-category.md",
+                "file": "React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React-category.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React-category.md",
+                "file": "React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React-category.md"
+                "file": "React/React.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b08b9effc9971491",
   "lastOpenFiles": [
-    "React/React.js.md",
-    "React/React-category.md",
     "React/useState.md",
+    "React/React.md",
+    "React/React.js.md",
     "useState.md",
     "README.md",
     "무제 파일.canvas",
