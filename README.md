@@ -1,4 +1,4 @@
-[React](React.md)
+[React](/React)
 
 
 
