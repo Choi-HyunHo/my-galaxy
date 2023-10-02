@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d088df37e236d0d5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,16 +138,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d088df37e236d0d5",
+  "active": "806576fa4aae977a",
   "lastOpenFiles": [
-    "React/useState.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/JavaScript란.md",
-    "JavaScript/JS-Start.md",
-    "JavaScript/JS-variable.md",
-    "README.md",
     "React/React.md",
     "React/React.js.md",
+    "React/useState.md",
+    "JavaScript/JavaScript란.md",
+    "README.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/JS-Start.md",
+    "JavaScript/JS-variable.md",
     "JavaScript",
     "React.md",
     "useState.md",
