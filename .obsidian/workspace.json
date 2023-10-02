@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d088df37e236d0d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "806576fa4aae977a",
+  "active": "d088df37e236d0d5",
   "lastOpenFiles": [
     "React/useState.md",
     "JavaScript/JavaScript.md",
