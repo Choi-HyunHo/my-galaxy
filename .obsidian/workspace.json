@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd06ce0efde94fb7",
+        "id": "236e76c3092c4680",
         "type": "tabs",
         "children": [
           {
-            "id": "806576fa4aae977a",
+            "id": "05c4ed94ccb40ea6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "right": {
     "id": "984dbbe2452a28e4",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript/JavaScript.md"
+              }
             }
           }
         ]
@@ -138,16 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "806576fa4aae977a",
+  "active": "05c4ed94ccb40ea6",
   "lastOpenFiles": [
+    "JavaScript/JS-variable.md",
+    "JavaScript/JS-표현식.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/JavaScript란.md",
+    "JavaScript/JS-Start.md",
+    "모던.md",
+    "JS-표현식과.md",
+    "README.md",
+    "React/useState.md",
     "React/React.md",
     "React/React.js.md",
-    "React/useState.md",
-    "JavaScript/JavaScript란.md",
-    "README.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/JS-Start.md",
-    "JavaScript/JS-variable.md",
     "JavaScript",
     "React.md",
     "useState.md",
