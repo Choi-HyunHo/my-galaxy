@@ -10,3 +10,6 @@
 - [모던 자바스크립트 Deep Dive_제어문](JS-Control.md)
 - [모던 자바스크립트 Deep Dive_객체 리터럴](JS-Object.md)
 - [모던 자바스크립트 Deep Dive_원시 값과 객체의 비교](JS-Premitive.md)
+- [모던 자바스크립트 Deep Dive_함수](JS-Function.md)
+- [모던 자바스크립트 Deep Dive_스코프](JS-Scope.md)
+- [모던 자바스크립트 Deep Dive_전역 변수의 문제점](JS-GlobalVariable.md)
