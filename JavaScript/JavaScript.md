@@ -15,3 +15,4 @@
 - [모던 자바스크립트 Deep Dive_전역 변수의 문제점](JS-GlobalVariable.md)
 - [모던 자바스크립트 Deep Dive_let, const 키워드](JS-let-const.md)
 - [모던 자바스크립트 Deep Dive_배열](JS-Array.md)
+- [모던 자바스크립트 Deep Dive_Number](JS-Number.md)

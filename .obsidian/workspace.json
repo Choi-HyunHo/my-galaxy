@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JS-Number.md",
+                "file": "JavaScript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JS-Number.md",
+                "file": "JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JS-Number.md",
+                "file": "JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JS-Number.md"
+                "file": "JavaScript/JavaScript.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "05c4ed94ccb40ea6",
   "lastOpenFiles": [
-    "JavaScript/JavaScript.md",
-    "JavaScript/JS-Number.md",
     "JavaScript/JS-Array.md",
-    "JavaScript/JS-let-const.md",
-    "JavaScript/JS-GlobalVariable.md",
+    "JavaScript/JS-Control.md",
     "JavaScript/JS-Scope.md",
+    "JavaScript/JS-Operator.md",
+    "JavaScript/JS-let-const.md",
+    "JavaScript/JS-Number.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/JS-GlobalVariable.md",
     "JavaScript/JS-Function.md",
     "JavaScript/JS-Premitive.md",
     "JavaScript/JS-Object.md",
@@ -164,8 +166,6 @@
     "JavaScript/JS-Start.md",
     "JavaScript/JS-Expression.md",
     "JavaScript/JS-variable.md",
-    "JavaScript/JS-Control.md",
-    "JavaScript/JS-Operator.md",
     "JavaScript/JS-Type.md",
     "모던.md",
     "JS-표현식과.md",
