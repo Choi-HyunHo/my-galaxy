@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "JavaScript/JS-Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "JavaScript/JS-Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "JavaScript/JS-Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JavaScript.md"
+                "file": "JavaScript/JS-Number.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "05c4ed94ccb40ea6",
   "lastOpenFiles": [
+    "JavaScript/JS-let-const.md",
+    "JavaScript/JavaScript.md",
     "JavaScript/JS-Array.md",
     "JavaScript/JS-Control.md",
     "JavaScript/JS-Scope.md",
     "JavaScript/JS-Operator.md",
-    "JavaScript/JS-let-const.md",
     "JavaScript/JS-Number.md",
-    "JavaScript/JavaScript.md",
     "JavaScript/JS-GlobalVariable.md",
     "JavaScript/JS-Function.md",
     "JavaScript/JS-Premitive.md",
