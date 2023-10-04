@@ -13,3 +13,4 @@
 - [모던 자바스크립트 Deep Dive_함수](JS-Function.md)
 - [모던 자바스크립트 Deep Dive_스코프](JS-Scope.md)
 - [모던 자바스크립트 Deep Dive_전역 변수의 문제점](JS-GlobalVariable.md)
+- [모던 자바스크립트 Deep Dive_let, const 키워드](JS-let-const.md)
