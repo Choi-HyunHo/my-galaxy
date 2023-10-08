@@ -11,12 +11,8 @@
             "id": "08b563b23bef4bd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/useEffect.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/useEffect.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,34 +152,34 @@
   },
   "active": "08b563b23bef4bd5",
   "lastOpenFiles": [
-    "React/React.js.md",
-    "React/useState.md",
-    "React/useEffect.md",
     "React/React.md",
+    "React/컴포넌트(Component)란❓.md",
+    "React/react-query-5.md",
+    "React/react-query-4.md",
+    "React/react-query-3.md",
+    "React/react-query-2.md",
+    "React/react-query-1.md",
+    "React/React.memo.md",
+    "React/React.js.md",
+    "React/useRef.md",
+    "React/useCallback.md",
+    "README.md",
+    "React/useMemo.md",
+    "React/react-redux.md",
+    "React/useReducer.md",
+    "React/useContext.md",
+    "무제 파일.md",
+    "React/useEffect.md",
+    "React/useState.md",
     "React/react-state-props.md",
     "React/react-rendering.md",
     "JavaScript/JS-Expression.md",
-    "React/컴포넌트(Component)란❓.md",
     "React/react-immutability.md",
     "JavaScript/JS-let-const.md",
-    "README.md",
     "JavaScript/JS-GlobalVariable.md",
     "JavaScript/JS-Number.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/JS-Array.md",
-    "JavaScript/JS-Control.md",
-    "JavaScript/JS-Scope.md",
-    "JavaScript/JS-Operator.md",
-    "JavaScript/JS-Function.md",
-    "JavaScript/JS-Premitive.md",
-    "JavaScript/JS-Object.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "JavaScript/JavaScript란.md",
-    "JavaScript/JS-Start.md",
-    "JavaScript/JS-variable.md",
-    "JavaScript/JS-Type.md",
-    "모던.md",
     "JavaScript",
     "React"
   ]
