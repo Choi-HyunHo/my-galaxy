@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "236e76c3092c4680",
+        "id": "cd019bbf36784c12",
         "type": "tabs",
         "children": [
           {
-            "id": "05c4ed94ccb40ea6",
+            "id": "08b563b23bef4bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "React/useEffect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14586a6f910c250b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/react-rendering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 207.5
   },
   "right": {
     "id": "984dbbe2452a28e4",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "React/useEffect.md"
               }
             }
           }
@@ -146,12 +158,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "05c4ed94ccb40ea6",
+  "active": "08b563b23bef4bd5",
   "lastOpenFiles": [
+    "React/React.js.md",
+    "React/useState.md",
+    "React/useEffect.md",
     "React/React.md",
+    "React/react-state-props.md",
+    "React/react-rendering.md",
+    "JavaScript/JS-Expression.md",
+    "React/컴포넌트(Component)란❓.md",
+    "React/react-immutability.md",
+    "JavaScript/JS-let-const.md",
+    "README.md",
     "JavaScript/JS-GlobalVariable.md",
     "JavaScript/JS-Number.md",
-    "JavaScript/JS-let-const.md",
     "JavaScript/JavaScript.md",
     "JavaScript/JS-Array.md",
     "JavaScript/JS-Control.md",
@@ -162,20 +183,12 @@
     "JavaScript/JS-Object.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "README.md",
     "JavaScript/JavaScript란.md",
     "JavaScript/JS-Start.md",
-    "JavaScript/JS-Expression.md",
     "JavaScript/JS-variable.md",
     "JavaScript/JS-Type.md",
     "모던.md",
-    "JS-표현식과.md",
-    "React/useState.md",
-    "React/React.js.md",
     "JavaScript",
-    "React.md",
-    "useState.md",
-    "무제 파일.md",
     "React"
   ]
 }
