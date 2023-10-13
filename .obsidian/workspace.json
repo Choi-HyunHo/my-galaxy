@@ -11,8 +11,12 @@
             "id": "08b563b23bef4bd5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "08b563b23bef4bd5",
   "lastOpenFiles": [
+    "React/useState.md",
     "React/React.md",
     "README.md",
     "React/react-query-7.md",
@@ -172,7 +181,6 @@
     "React/useContext.md",
     "무제 파일.md",
     "React/useEffect.md",
-    "React/useState.md",
     "React/react-state-props.md",
     "React/react-rendering.md",
     "JavaScript/JS-Expression.md",
