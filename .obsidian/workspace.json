@@ -11,12 +11,8 @@
             "id": "08b563b23bef4bd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/React.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +152,10 @@
   },
   "active": "08b563b23bef4bd5",
   "lastOpenFiles": [
+    "React/React.md",
     "React/react-wamted-1.md",
     "README.md",
     "React/useState.md",
-    "React/React.md",
     "React/react-query-7.md",
     "React/react-query-6.md",
     "React/컴포넌트(Component)란❓.md",
