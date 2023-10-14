@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "React/React.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "08b563b23bef4bd5",
   "lastOpenFiles": [
+    "React/react-wamted-1.md",
+    "README.md",
     "React/useState.md",
     "React/React.md",
-    "README.md",
     "React/react-query-7.md",
     "React/react-query-6.md",
     "React/컴포넌트(Component)란❓.md",
@@ -185,7 +186,6 @@
     "React/react-rendering.md",
     "JavaScript/JS-Expression.md",
     "React/react-immutability.md",
-    "JavaScript/JS-let-const.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "JavaScript",
