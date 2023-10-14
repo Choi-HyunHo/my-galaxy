@@ -5,6 +5,8 @@ description: 4월 프론트엔드 여행자를 위한 리액트 해부학
 tag: React
 ---
 
+[[React]]
+
 해당 포스트는 원티드의 [프리온보딩 프론트엔드 챌린지](https://www.wanted.co.kr/events/pre_challenge_fe_8) 강의 내용 복습 겸 정리 입니다.
 
 ## Week 1-1. React가 VirtualDOM 을 활용하는 방법
